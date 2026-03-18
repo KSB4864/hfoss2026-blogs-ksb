@@ -56,3 +56,7 @@ When I submitted the pull request, the github-actions bot found no conflicts wit
 ## Response to the Contribution
 
 While I haven't gotten a response from a maintainer yet, it has sparked discussion among other users. A user had concerns about if Apple was secure enough. These concerns were valid as there have been menstrual cycle tracking apps that have sold data to users. The user was also worried about the information being accessed if a user was subpoenaed. However, other users pointed out that this isn't an issue as Apple Health is end-to-end encrypted and data mostly stored on the device.
+
+## Was it accepted or merged?
+
+I am currently still waiting on a response from the maintainers to review the pull request, so it is not accepted or merged at the moment.
